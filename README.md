@@ -16,13 +16,11 @@ I am **A Person From The Planet Earth**.
 
 I like **OffSec**, cybersecurity, technology, and learning how systems work.
 
-```txt
+
 Name: APFTPE
-Meaning: A Person From The Planet Earth
-Planet: Earth
 Interests: OffSec, Tech, Cybersecurity
 Status: Always Learning
-```
+
 
 ---
 
@@ -42,13 +40,13 @@ Status: Always Learning
 
 ## Currently Learning
 
-```txt
+
 [+] Offensive Security Basics
 [+] Networking
 [+] Ethical Hacking
 [+] GitHub Projects
 [+] How systems work
-```
+
 
 ---
 
